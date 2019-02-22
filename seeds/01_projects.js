@@ -8,7 +8,7 @@ exports.seed = function(knex, Promise) {
         {name: 'Complete RDBMS-API Sprint Challegne',
         description:'Seed, Migrate, etc.'},
         {name: 'Break in the NSA', description: 'Use authentication to reach the backend of IMF'},
-        {name: 'Create Sentence', description:'Python could be useful'}
+        {name: 'Create Sentence', description:'English could be useful'}
       ]);
     });
 };
